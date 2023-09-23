@@ -28,3 +28,8 @@ Material-UI: Uma biblioteca de componentes de interface de usuário para React c
 Axios: Uma biblioteca para fazer requisições HTTP para a API PokeAPI.
 
 PokeAPI (pokeapi.co): A API que fornece informações sobre os Pokémon, incluindo dados como nome, altura, peso, variações e ataques.
+
+## Deploy
+
+react-pokedex-pi-five.vercel.app
+
